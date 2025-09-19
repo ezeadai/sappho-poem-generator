@@ -8,6 +8,6 @@ Translations of Sappho's poetry are credited to:
 
 ## License
 
-This project is licensed under the [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license.
+This project/code is licensed under the [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license.
 
 You may share this project with attribution, but you may not modify it or use it for commercial purposes.
